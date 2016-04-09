@@ -1,0 +1,9 @@
+All "Book Assets"
+	- Title:
+		* "Unity 3.x Game Development Essentials"
+	- Author:
+		* Will Goldstone
+	- License:
+		* Creative-Commons / MIT / Personal & Education Use
+	- Publisher:
+		* PACKT Publishing

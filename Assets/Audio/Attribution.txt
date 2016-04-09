@@ -1,0 +1,46 @@
+--- MUSIC ---
+* AudioClip_Music_Gameplay_Background01
+	* Album Title:
+		- Metal Gear Solid 2 Substance
+	* Song Title:
+		- Mission in the Dark Sneaking
+	* Found Via:
+		- http://downloads.khinsider.com/game-soundtracks/album/metal-gear-solid-2-substance/25-mission-in-the-dark-sneaking.mp3
+
+* AudioClip_Music_Menu_Background01
+	* Album Title:
+		- Metal Gear Solid 2 Sons of Liberty Soundtrack
+	* Song Title:
+		- Metal Gear Solid "Main Theme"
+	* Found Via:
+		- http://downloads.khinsider.com/game-soundtracks/album/metal-gear-solid-2-sons-of-liberty-the-complete-soundtrack-gamerip-/101.-metal-gear-solid-main-theme.mp3
+
+*AudioClip_Music_Gameplay_MissionSuccess
+	* Album Title:
+		- Metal Gear Solid 2 Sons of Liberty Soundtrack
+	* Song Title:
+		- Fanfare 1
+	* Found Via:
+		- http://downloads.khinsider.com/game-soundtracks/album/metal-gear-solid-2-sons-of-liberty-the-complete-soundtrack-gamerip-/434.fanfare-1.mp3
+
+*AudioClip_Music_Gameplay_MissionFailure
+	* Song Title:
+		- Metal Gear Solid Game Over
+	* Found Via:
+		- http://www.zedge.net/ringtone/483581/
+
+--- SFX ---
+*AudioClip_SFX_DetectedAlert
+	* Author:
+		- nutjob
+	* Song Title:
+		- Mgs Alert Sound
+	* Found Via:
+		- http://mobcup.net/ringtones/385662/mgs--alert-sound
+*AudioClip_SFX_SeenAlert
+	* Author:
+		- Mike Koenig
+	* Title:
+		- Ship Bell
+	* Found via:
+		- http://soundbible.com/1746-Ship-Bell.html

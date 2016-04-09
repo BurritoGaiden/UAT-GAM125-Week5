@@ -1,0 +1,6 @@
+--- Sprites ---
+* Sprite_Background_MainMenu
+	* Submitted by:
+		- TorinoGT
+	* Found via:
+		- https://images2.alphacoders.com/502/502268.jpg
